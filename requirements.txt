@@ -1,0 +1,10 @@
+scikit-learn==1.1.dev0
+streamlit==1.2.0
+nest-asyncio==1.5.4
+nlpaug==1.1.9
+nltk==3.6.5
+numpy==1.21.4
+Cython==0.29.25
+pickleshare==0.7.5
+pandas==1.3.4
+tqdm==4.62.3
